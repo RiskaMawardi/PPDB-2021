@@ -15,6 +15,7 @@
                     @endif
 
                     You are logged in!
+                    <a href="ppdbs">Data siswa</a>
                 </div>
             </div>
         </div>
